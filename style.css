@@ -1,0 +1,67 @@
+    .menu
+    {
+        display: flex;
+        justify-content:space-between;
+        color: rgb(0, 0, 0);
+        background-color: rgb(44, 255, 209);
+        margin-bottom: 30px;
+        margin-top: 05px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 20px;
+        font-family: monospace;
+    }
+
+    a:link
+    {
+        color:rgb(0, 0, 0) ;
+    }
+
+    a:visited
+    {
+        color:rgb(255, 255, 255) ;
+    }
+
+    .grid
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .grid img
+    {
+      border:3px solid black;
+      border-radius: 50px;
+    }
+
+    h1
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .origami
+    {
+        border: solid;
+        border-radius: 20px;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhnE7FQuTLJLZKZHeiOBQb70RLkvvuErxneLQMOeoJPn-VVlKFsePvNwEG9JRy7agUik&usqp=CAU);
+        width: 310px;
+        font-family: monospace;
+    }
+
+    html
+    {
+        background-color: rgb(205, 179, 253);
+    }
+
+    .about
+    {
+        font-family:monospace;
+        background-color: rgb(253, 237, 143);
+    }
+
+    body
+    {
+       margin: 0px;
+    }
